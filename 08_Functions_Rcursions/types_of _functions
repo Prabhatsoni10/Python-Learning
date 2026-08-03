@@ -1,0 +1,7 @@
+# There are two types fucntions:
+
+# 1) Buit in Functions(Already present in python )
+# 2) Use defind functions(Defined by user)
+
+# Example of built in functions are len(),priint(),range(),etc()
+# Example of user defienrd functions are func1().
